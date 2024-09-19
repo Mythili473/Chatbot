@@ -1,4 +1,4 @@
-Medical Symptom Checker Chatbot
+Medical Symptom Checker Chatbot.
 This project is a simple Medical Symptom Checker Chatbot that identifies diseases based on symptoms provided by the user. It uses Natural Language Processing (NLP) with spaCy to extract symptoms from user input and matches them with a predefined symptom-disease mapping. The chatbot can run as a console-based interactive tool or be deployed using a web interface with Flask and Ngrok.
 
 Features
